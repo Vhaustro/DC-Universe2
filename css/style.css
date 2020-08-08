@@ -69,7 +69,7 @@ body{
 /* Header image*/
 .header-image{
     background-image: linear-gradient(rgba(23,0,10, 0.7 ), rgba(0,20,0, 
-    0.7)),url(../img/image.jpg);
+    0.7)),url(../img/imagem2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -97,8 +97,8 @@ body{
 ------------------------*/
 .journey-ways{
     width: 90%;
-    margin: auto;
-    padding: 70px;
+    margin: 100px;
+    padding: 80px;
     padding-bottom: 40px;
 }
 
@@ -106,7 +106,7 @@ body{
     text-align: center;
     text-transform: uppercase;
     color: #222f3e;
-    font-size: 35px;
+    font-size: 100px;
     font-weight: 300;
 }
 
@@ -118,7 +118,7 @@ body{
 #journey-explain{
     color: #222f3e;
     text-align: center;
-    margin-top: 15px;
+    margin-top: 20px;
 }
 
 .travel-ways{
@@ -134,7 +134,7 @@ body{
 }
 
 .ways-to-travel:nth-child(2) {
-    margin-top: 0px;
+    margin-top: 20px;
 }
 
 .ways-to-travel h3{
@@ -148,7 +148,7 @@ body{
 }
 
 .ways-to-travel{
-    margin-top: 10px;
+    margin-top: 20px;
     color: #222f3e;
 }
 
@@ -185,5 +185,4 @@ body{
     padding: 0 15px 10px 15px;
     padding-bottom: 3px;
 }
-
 
